@@ -4,7 +4,16 @@ A simple add-on for Express (Node.js) that helps you build routes to represent a
 
 ## Installation
 
-Add `git://github.com/seven1m/express-resource-routes.git` to your package.json dependencies list and run `npm install`.
+Add `git://github.com/seven1m/express-resource-routes.git` to your package.json dependencies list like so:
+
+```json
+{
+  "name": "myapp",
+  "dependencies": {
+    "resource-routes": "git://github.com/seven1m/express-resource-routes.git"
+  }
+}
+```
 
 ## Usage
 
