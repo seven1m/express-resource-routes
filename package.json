@@ -5,6 +5,9 @@
   "author": "Tim Morgan <tim@timmorgan.org>",
   "repository": "git://github.com/seven1m/express-resource-routes",
   "main": "./index.js",
+  "dependencies": {
+    "underscore": "*"
+  },
   "devDependencies": {
     "coffee-script": "*",
     "jasmine-node": "*"
